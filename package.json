@@ -1,0 +1,25 @@
+{
+  "name": "NetworkInternational",
+  "version": "0.0.1",
+  "description": "init",
+  "cordova": {
+    "id": "com.btpl.plugins.ni",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcanikhilprajapati/NetworkInternational.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Nikhil Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcanikhilprajapati/NetworkInternational/issues"
+  },
+  "homepage": "https://github.com/mcanikhilprajapati/NetworkInternational#readme"
+}
